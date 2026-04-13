@@ -24,6 +24,15 @@ The ability to predict landing success is critical for reducing operational cost
 
 ---
 
+## 📊 Full Presentation
+
+<p align="center">
+  <a href="https://github.com/alex-05-20/IBM-Data-Science-Applied-Capstone/blob/main/SpaceX%20Launch%20Success%20Prediction%20%E2%80%93%20Data%20Science.pptx">
+    <img src="https://img.shields.io/badge/View%20Presentation-PowerPoint-orange?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
+  </a>
+</p>
+
+---
 ## 🎯 Business Problem
 
 Reusable rocket systems are a major innovation in the aerospace industry.
