@@ -199,7 +199,6 @@ Developed multiple classification models:
 - Test advanced models (Random Forest, XGBoost)  
 - Deploy model as an API  
 - Build a web app interface
-- 
 ---
 
 ## 👤 Author
