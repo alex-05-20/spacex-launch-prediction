@@ -15,7 +15,7 @@ This project aims to **predict the success of SpaceX Falcon 9 first-stage landin
 
 The ability to predict landing success is critical for reducing operational costs, improving mission planning, and enabling reusable rocket technology.
 
-👉 This project demonstrates a **complete end-to-end data workflow**:
+This project demonstrates a **complete end-to-end data workflow**:
 - Data collection  
 - Data cleaning & preparation  
 - Exploratory analysis  
@@ -43,7 +43,7 @@ Predicting whether a rocket will successfully land allows companies to:
 - Optimize operational decision-making
 - Reduce technical risks
 
-👉 The objective is to build a model capable of predicting:
+ The objective is to build a model capable of predicting:
 **Will the first stage successfully land?**
 
 ---
@@ -145,11 +145,11 @@ Developed multiple classification models:
 
 ## 🔍 Key Insights
 
-- 🚀 Launch success rate improves significantly over time  
-- 📍 Certain launch sites are more reliable  
-- ⚖️ Payload mass influences success probability  
-- 🌍 Geographic factors impact landing success  
-- 🔁 Reusability features strongly correlate with outcomes  
+-  Launch success rate improves significantly over time  
+-  Certain launch sites are more reliable  
+-  Payload mass influences success probability  
+-  Geographic factors impact landing success  
+-   Reusability features strongly correlate with outcomes  
 
 ---
 
@@ -198,17 +198,8 @@ Developed multiple classification models:
 - Handle class imbalance  
 - Test advanced models (Random Forest, XGBoost)  
 - Deploy model as an API  
-- Build a web app interface  
-
----
-
-## 📸 Example Outputs
-
-👉 (Add screenshots here for maximum impact)
-- Dashboard visuals  
-- Maps  
-- Model performance graphs  
-
+- Build a web app interface
+- 
 ---
 
 ## 👤 Author
